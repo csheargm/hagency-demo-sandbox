@@ -105,7 +105,7 @@ and [catalog architecture](docs/adr/0008-rinx-system-app-catalog.md).
 
 ## Contributing
 
-Open an issue first to describe the bug or change, then send a pull request that
+Open an issue to discuss your idea first. Then send a pull request that
 references it. See [development, isolated profiles and native acceptance](docs/local-development.md)
 for local setup and checks.
 
