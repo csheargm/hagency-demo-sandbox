@@ -122,3 +122,7 @@ Distributed under [Apache-2.0](LICENSE). Inherited Robrix code retains its
 See [development, isolated profiles and native acceptance](docs/local-development.md).
 
 [GitHub CI and releases](docs/github-ci.md)
+
+## FAQ
+
+Ask in the fix-it room; an Agent will pick it up.
