@@ -103,6 +103,12 @@ Built-in native and OctoScript apps are declared in `system-apps.json`; the arti
 editor is under `apps/article-editor/`. See the [app development guide](apps/README.md)
 and [catalog architecture](docs/adr/0008-rinx-system-app-catalog.md).
 
+## Contributing
+
+Open an issue first to describe the bug or change, then send a pull request that
+references it. See [development, isolated profiles and native acceptance](docs/local-development.md)
+for local setup and checks.
+
 ## Acknowledgements and license
 
 This repository preserves its Robrix/Robrix2 and Rinx history. Thanks to Kevin Boos,
