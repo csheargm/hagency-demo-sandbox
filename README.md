@@ -103,6 +103,22 @@ Built-in native and OctoScript apps are declared in `system-apps.json`; the arti
 editor is under `apps/article-editor/`. See the [app development guide](apps/README.md)
 and [catalog architecture](docs/adr/0008-rinx-system-app-catalog.md).
 
+## Troubleshooting
+
+- **Sign-in fails or never completes:** Hagency Desktop only supports Hagency
+  servers through Pasion browser authorization; ordinary Matrix servers are not
+  supported. Check the server address and finish the sign-in in the browser.
+- **Wrong account or missing Agents:** Only the selected account syncs. Use
+  **Settings → Account** to switch; Agents and data are not shared between accounts.
+- **Agent does not run:** Confirm in **Codex** that a model and workspace are saved,
+  set limits in **Budgets**, then select a Room and start it in **Run**.
+- **Build errors:** Use the pinned Rust 1.98.0 toolchain and install CMake and the
+  platform's native build dependencies before `cargo run --locked --bin rinx`.
+- **Need a clean profile:** Set `HAGENCY_DESKTOP_DATA_DIR` to an absolute path to use
+  an isolated data directory.
+
+See the [quick-start guide](docs/hagency-quickstart.md) for recovery states.
+
 ## Contributing
 
 Open an issue to discuss your idea first. Then send a pull request that
