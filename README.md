@@ -9,6 +9,11 @@ Matrix chat, Project workspaces and locally executed AI Agents in one applicatio
 Sign in to a **Hagency server** through its Pasion browser authorization. Ordinary
 Matrix servers are not supported by the current login flow.
 
+## Getting started
+
+1. Clone the repo: `git clone https://github.com/csheargm/hagency-demo-sandbox.git`
+2. Open `README.md`.
+
 ## What is managed where
 
 - A Project binds one Matrix Space. Its discussion Rooms keep their own membership.
