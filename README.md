@@ -149,4 +149,23 @@ See [development, isolated profiles and native acceptance](docs/local-developmen
 
 ## FAQ
 
-Ask in the fix-it room; an Agent will pick it up.
+**Can I sign in to an ordinary Matrix server?**
+No. The current login flow supports Hagency servers through Pasion browser
+authorization only.
+
+**Do Agents move with me when I switch accounts?**
+No. Only the selected account syncs, and Agents and data are not shared between
+accounts. Switching stops local Agent processing for the previous account.
+
+**Do I need server administrator approval to choose a model or workspace?**
+No. The owner selects Codex, model, workspace, budgets and tool policy on their
+own device.
+
+**Can one device run several Agents?**
+Yes. One device can run multiple Agents.
+
+**Where do I report a bug or ask a question?**
+See [Getting help](#getting-help).
+
+**How do I use an isolated data directory?**
+Set `HAGENCY_DESKTOP_DATA_DIR` to an absolute path.
