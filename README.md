@@ -129,8 +129,18 @@ See the [quick-start guide](docs/hagency-quickstart.md) for recovery states.
 
 ## Contributing
 
-Open an issue to discuss your idea first. Then send a pull request that
-references it. See [development, isolated profiles and native acceptance](docs/local-development.md)
+Contributions to this sandbox are welcome.
+
+1. Open an issue to discuss your idea first, or comment on an existing one.
+2. Create a branch from `main` with a short descriptive name, for example
+   `docs/readme-contributing-29`.
+3. Make a small, focused change and run the relevant checks from
+   [Build and check](#build-and-check).
+4. Open a pull request that references the issue (for example `Fixes #29`)
+   and describes what changed and why. Open it as a draft until it is ready.
+5. Address review feedback by pushing further commits to the same branch.
+
+See [development, isolated profiles and native acceptance](docs/local-development.md)
 for local setup and checks.
 
 ## Acknowledgements and license
