@@ -119,6 +119,14 @@ and [catalog architecture](docs/adr/0008-rinx-system-app-catalog.md).
 
 See the [quick-start guide](docs/hagency-quickstart.md) for recovery states.
 
+## Getting help
+
+- **Questions:** Check the [quick-start guide](docs/hagency-quickstart.md) and the
+  Troubleshooting section above first. If you are still stuck, open a GitHub issue
+  and label it as a question.
+- **Bugs and feature requests:** [Open an issue](https://github.com/csheargm/hagency-demo-sandbox/issues/new)
+  with the steps to reproduce, what you expected, and your platform and version.
+
 ## Contributing
 
 Open an issue to discuss your idea first. Then send a pull request that
