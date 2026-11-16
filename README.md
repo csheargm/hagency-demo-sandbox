@@ -140,7 +140,7 @@ Contributions to this sandbox are welcome.
    and describes what changed and why. Open it as a draft until it is ready.
 5. Address review feedback by pushing further commits to the same branch.
 
-See [development, isolated profiles and native acceptance](docs/local-development.md)
+Full guidelines are in [CONTRIBUTING.md](CONTRIBUTING.md). See [development, isolated profiles and native acceptance](docs/local-development.md)
 for local setup and checks.
 
 ## Acknowledgements and license
@@ -153,7 +153,7 @@ Distributed under [Apache-2.0](LICENSE). Inherited Robrix code retains its
 [MIT copyright and permission notice](LICENSE-MIT). See [NOTICE](NOTICE) and
 [third-party notices](licenses/THIRD-PARTY-NOTICES.html).
 
-See [development, isolated profiles and native acceptance](docs/local-development.md).
+Full guidelines are in [CONTRIBUTING.md](CONTRIBUTING.md). See [development, isolated profiles and native acceptance](docs/local-development.md).
 
 [GitHub CI and releases](docs/github-ci.md)
 
