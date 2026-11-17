@@ -143,6 +143,12 @@ Contributions to this sandbox are welcome.
 See [development, isolated profiles and native acceptance](docs/local-development.md)
 for local setup and checks.
 
+## Roadmap
+
+- Issue loop
+- Beta server
+- Mobile client
+
 ## Acknowledgements and license
 
 This repository preserves its Robrix/Robrix2 and Rinx history. Thanks to Kevin Boos,
