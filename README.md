@@ -110,6 +110,10 @@ Built-in native and OctoScript apps are declared in `system-apps.json`; the arti
 editor is under `apps/article-editor/`. See the [app development guide](apps/README.md)
 and [catalog architecture](docs/adr/0008-rinx-system-app-catalog.md).
 
+## Testing
+
+No automated tests yet.
+
 ## Troubleshooting
 
 - **Sign-in fails or never completes:** Hagency Desktop only supports Hagency
