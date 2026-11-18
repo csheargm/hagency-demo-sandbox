@@ -6,6 +6,26 @@ Status: demo sandbox for Hagency's autonomous issue loop.
 
 English | [简体中文](README.zh-CN.md)
 
+## Table of contents
+
+- [Who is this for](#who-is-this-for)
+- [What is managed where](#what-is-managed-where)
+- [Quick start](#quick-start)
+- [Navigation and retained features](#navigation-and-retained-features)
+- [Accounts, settings and local data](#accounts-settings-and-local-data)
+- [Build and check](#build-and-check)
+- [Testing](#testing)
+- [Troubleshooting](#troubleshooting)
+- [Support](#support)
+- [Getting help](#getting-help)
+- [How to report a bug](#how-to-report-a-bug)
+- [Contributing](#contributing)
+- [Acknowledgements and license](#acknowledgements-and-license)
+- [Credits](#credits)
+- [Versioning](#versioning)
+- [Changelog](#changelog)
+- [FAQ](#faq)
+
 Hagency Desktop is a native Rust/Makepad client for Hagency servers. It combines
 Matrix chat, Project workspaces and locally executed AI Agents in one application.
 Sign in to a **Hagency server** through its Pasion browser authorization. Ordinary
