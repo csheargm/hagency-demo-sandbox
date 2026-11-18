@@ -197,3 +197,5 @@ See [Getting help](#getting-help).
 
 **How do I use an isolated data directory?**
 Set `HAGENCY_DESKTOP_DATA_DIR` to an absolute path.
+
+Contact: open an issue in this repository.
