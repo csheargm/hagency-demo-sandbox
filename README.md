@@ -183,6 +183,10 @@ See [development, isolated profiles and native acceptance](docs/local-developmen
 
 [GitHub CI and releases](docs/github-ci.md)
 
+## Credits
+
+Built by the Hagency demo team.
+
 ## Versioning
 
 This sandbox is not versioned.
