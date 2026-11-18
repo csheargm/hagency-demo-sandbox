@@ -9,6 +9,11 @@ Matrix chat, Project workspaces and locally executed AI Agents in one applicatio
 Sign in to a **Hagency server** through its Pasion browser authorization. Ordinary
 Matrix servers are not supported by the current login flow.
 
+## Who is this for
+
+- Teams that discuss work in chat.
+- Owners who want agents to fix small issues.
+
 ## What is managed where
 
 - A Project binds one Matrix Space. Its discussion Rooms keep their own membership.
