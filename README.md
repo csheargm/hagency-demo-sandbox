@@ -175,6 +175,10 @@ See [development, isolated profiles and native acceptance](docs/local-developmen
 
 [GitHub CI and releases](docs/github-ci.md)
 
+## Changelog
+
+Release history is published with each release; see [GitHub CI and releases](docs/github-ci.md).
+
 ## FAQ
 
 **Can I sign in to an ordinary Matrix server?**
