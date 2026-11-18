@@ -179,6 +179,10 @@ See [development, isolated profiles and native acceptance](docs/local-developmen
 
 [GitHub CI and releases](docs/github-ci.md)
 
+## Versioning
+
+This sandbox is not versioned.
+
 ## Changelog
 
 Release history is published with each release; see [GitHub CI and releases](docs/github-ci.md).
