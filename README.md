@@ -130,6 +130,10 @@ No automated tests yet.
 
 See the [quick-start guide](docs/hagency-quickstart.md) for recovery states.
 
+## Support
+
+Open an issue for help.
+
 ## Getting help
 
 - **Questions:** Check the [quick-start guide](docs/hagency-quickstart.md) and the
