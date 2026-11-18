@@ -161,6 +161,10 @@ Contributions to this sandbox are welcome.
 See [development, isolated profiles and native acceptance](docs/local-development.md)
 for local setup and checks.
 
+## Changelog
+
+Release history is published on [GitHub Releases](https://github.com/hagency-org/hagency-desktop/releases).
+
 ## Acknowledgements and license
 
 This repository preserves its Robrix/Robrix2 and Rinx history. Thanks to Kevin Boos,
