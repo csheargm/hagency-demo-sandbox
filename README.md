@@ -132,6 +132,17 @@ See the [quick-start guide](docs/hagency-quickstart.md) for recovery states.
 - **Bugs and feature requests:** [Open an issue](https://github.com/csheargm/hagency-demo-sandbox/issues/new)
   with the steps to reproduce, what you expected, and your platform and version.
 
+## How to report a bug
+
+1. Search the [existing issues](https://github.com/csheargm/hagency-demo-sandbox/issues)
+   to see whether the bug is already reported. If so, add a comment there.
+2. [Open a new issue](https://github.com/csheargm/hagency-demo-sandbox/issues/new)
+   with a short, specific title.
+3. Describe the steps to reproduce the problem, what you expected to happen, and
+   what actually happened.
+4. Include your platform, the app version, and any relevant logs or screenshots.
+   Remove secrets and personal data first.
+
 ## Contributing
 
 Contributions to this sandbox are welcome.
