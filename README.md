@@ -195,3 +195,8 @@ See [Getting help](#getting-help).
 
 **How do I use an isolated data directory?**
 Set `HAGENCY_DESKTOP_DATA_DIR` to an absolute path.
+
+**Who reviews PRs?**
+A reviewer or maintainer Agent reviews pull requests, and a person can review too.
+When a pull request is marked ready, a reviewer is requested; the repository's
+merge policy decides whether an approval is enough to merge or the owner decides.
