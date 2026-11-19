@@ -244,3 +244,4 @@ Set `HAGENCY_DESKTOP_DATA_DIR` to an absolute path.
 
 Changes are listed in pull requests.
 Getting help: open an issue in this repository.
+## Changelog
