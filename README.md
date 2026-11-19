@@ -211,6 +211,8 @@ See [development, isolated profiles and native acceptance](docs/local-developmen
 
 Built by the Hagency demo team.
 
+Thanks to everyone who has contributed, reported bugs and given feedback.
+
 ## Versioning
 
 This sandbox is not versioned.
