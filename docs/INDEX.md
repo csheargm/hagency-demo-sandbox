@@ -1,0 +1,34 @@
+# Docs index
+
+- CODE_OWNERS_NOTE.md - note on code owners
+- FAQ.md - frequently asked questions
+- GLOSSARY.md - glossary of terms
+- RELEASE_NOTES_v1.0.0.md - release notes for v1.0.0
+- RELEASE_NOTES_v1.0.1.md - release notes for v1.0.1
+- RELEASE_NOTES_v1.0.2.md - release notes for v1.0.2
+- RELEASE_NOTES_v1.1.0.md - release notes for v1.1.0
+- ROADMAP.md - project roadmap
+- STATUS.md - current project status
+- STYLE.md - style guide
+- SUPPORT.md - how to get support
+- TESTING.md - testing guide
+- VERSIONING.md - versioning policy
+- agent-chat.md - agent chat notes
+- customer-themes.md - customer theme notes
+- github-ci.md - GitHub CI setup
+- hagency-onboarding-isolated-validation.md - onboarding isolated validation
+- hagency-quickstart.md - Hagency quickstart
+- hagency-quickstart.zh-CN.md - Hagency quickstart (Chinese)
+- local-development.md - local development guide
+- local-development.zh-CN.md - local development guide (Chinese)
+- merge-rules.md - merge rules
+- multi-account.md - multi-account notes
+- octosense-development.md - Octosense development notes
+- privacy.md - privacy notes
+- rinx-deployment.md - Rinx deployment guide
+- robrix-upstream-readme.md - Robrix upstream README
+- robrix2-parity.md - Robrix2 parity notes
+- theme-mvp-validation.json - theme MVP validation data
+- theme-mvp.md - theme MVP notes
+- theme-validation.json - theme validation data
+- theme-validation.md - theme validation notes
